@@ -2,10 +2,6 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
-
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -13,6 +9,31 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
+
+## View all running services
+
+<img width="864" alt="Screen Shot 2022-03-13 at 11 14 33 PM" src="https://user-images.githubusercontent.com/61802639/158099237-41e936ae-a22a-4b84-b912-c59b78272432.png">
+
+
+## Service with disruptions
+
+<img width="865" alt="Screen Shot 2022-03-13 at 11 15 00 PM" src="https://user-images.githubusercontent.com/61802639/158099250-0467c478-dd5a-488d-8c1f-166b9c28f293.png">
+
+
+## Service without disruption
+
+<img width="863" alt="Screen Shot 2022-03-13 at 11 15 32 PM" src="https://user-images.githubusercontent.com/61802639/158099257-91dc1ff0-8f81-4056-bb17-4557acef6f30.png">
+
+
+## Search for bike points
+
+<img width="854" alt="Screen Shot 2022-03-13 at 11 14 18 PM" src="https://user-images.githubusercontent.com/61802639/158099271-ac5c8fff-b998-4644-be9b-023d6695de5f.png">
+
+
+
+## Available Scripts
+
+In the project directory, you can run:
 
 ### `npm test`
 
