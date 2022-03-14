@@ -2,7 +2,6 @@ import { SELECT_SERVICE } from '../store/actions';
 import { Navbar, Container, Nav, NavDropdown } from 'react-bootstrap';
 import _ from 'underscore';
 import { Link } from "react-router-dom";
-import 'bootstrap/dist/css/bootstrap.min.css';
 
 function Header(props: any) {
   const menuItemClick = (item: any, state: any, dispatch: any) => {
